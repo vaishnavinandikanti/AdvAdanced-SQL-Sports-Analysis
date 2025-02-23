@@ -1,4 +1,4 @@
-# **Baseball Data Analysis**
+# **Baseball Data Analysis Using Advanced SQL**
 
 ## **Project Overview**
 This project focuses on analyzing baseball player data using MySQL. It includes insights into schools producing players, salary trends, player career statistics, and player comparisons. The dataset consists of four tables: `players`, `salaries`, `school_details`, and `schools`.
